@@ -1,0 +1,60 @@
+big event	大事件
+layui.all.js	一个js框架
+asset		资源
+login		登录
+register	注册
+common		公共的
+tools		工具包
+lay-verify	验证
+token		认证信息
+lay-shrink	折起
+iframe		内嵌页面标签
+target		目标
+getUserInfo	获取用户信息
+renderAvatar	渲染头像
+welcome		欢迎
+picture		图片
+confirm		询问
+hidden		隐藏
+choose		选择
+add		添加
+edit		编辑
+modify		修改
+filter		过滤
+update		修改
+category	分类
+article		文章
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,97 @@
+http		超文本传输协议
+ajax		异步的js请求
+localhost	本机地址
+port		端口号
+async		异步的
+axios		封装了ajax的框架
+method		方法
+get		获取
+post		邮寄、推送
+delete		删除
+url		网站地址
+data		数据
+date		日期
+params		参数 get 专用
+message		消息
+msg		消息的简写
+status		状态码
+code		代码
+then		然后
+voice		声音
+audio		音频标签
+video		视频标签
+username	用户名
+password	密码
+email		邮箱
+nickname	昵称
+content-type	内容的类型
+以下两项为 content-type 中的两个值
+application/x-www-form-urlencoded
+multipart/form-data
+serialize	序列化
+下面这一项，设置axios根路径
+axios.defaults.baseURL
+init		初始化
+book		图书
+list		列表
+render		渲染
+interceptors	拦截器(复数形式)
+request		请求
+response	响应
+use		使用
+config		配置参数
+Promise		内置对象(处理回调函数)
+reject		拒绝
+FormData	内置对象(上传文件用)
+append		添加
+avatar		头像
+upload		上传
+XMLHttpRequest	原生ajax对象
+open		打开
+send		发送
+responseText	响应文本信息
+option		选项
+setReqestHeader	设置请求头
+CORS		跨域
+JSONP		JSONP请求
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
